@@ -40,7 +40,7 @@
 /**********************Header******************/
 
 header{
-  background-image: url(images/pokemon.jpg);
+  background-image: url(/pokemon.jpg);
   background-size: cover;
   padding: 150px;
   background-position: center center;
