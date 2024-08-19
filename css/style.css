@@ -40,7 +40,7 @@
 /**********************Header******************/
 
 header{
-  background-image: url(/images/pokemon.jpg);
+  background-image: url(images/pokemon.jpg);
   background-size: cover;
   padding: 150px;
   background-position: center center;
@@ -1770,7 +1770,7 @@ height: 450px;
   font-size: 20px;
 }
 .each-pokemon{
-  background-image: url(/images/space-1796654_1280.jpg);
+  background-image: url(images/space-1796654_1280.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -1831,7 +1831,7 @@ font-size: 25pt;
 
 /**********************height***************/
 .height-container{
-  background-image: url(/images/right-info.svg);
+  background-image: url(images/right-info.svg);
   background-repeat: no-repeat;
   height: 300px;
   width: 300px;
